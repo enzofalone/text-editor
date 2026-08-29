@@ -1,0 +1,24 @@
+This is a file that contains many lines but not too many characters... The purpose of this
+file is to test that we can properly chunk text :)
+
+Of course I have to add a classic text because I don't know what else to type :P, so here it goes (also Google added a neat feature to generate Lorem Ipsum text, very cool):
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Cupiditate qui qui nulla voluptas atque. Quis repellendus quo incididunt optio autem est sit reprehenderit velit. In nostrud et blanditiis culpa fugiat esse illum ut maxime distinctio nam. Deserunt mollitia quibusdam quod anim et quis id dolor qui consequatur sit ut.
+
+Non et qui fugiat elit id ut fugiat irure qui reprehenderit elit. Proident corrupti corrupti quos omnis molestias tempore nulla fugiat est et. Id vel blanditiis est in repellendus ea est incididunt quos voluptas facere. Libero sit imperdiet voluptatum libero deserunt sint ut dolores. Quod et eligendi illum nobis similique dignissimos provident irure eum deserunt.
+
+Occaecat et est et pariatur pariatur incididunt. Dolores qui in labore id vel magna mollit lorem eiusmod repellendus in dolor. Non similique cumque nisi est est nulla amet sint similique animi. Nobis imperdiet consectetur illum pariatur rerum eos voluptas laborum velit facere.
+
+Id occaecat molestias id accusamus est animi et est eiusmod provident ullamco. Cupiditate qui possimus sed qui id. Quas pariatur minim distinctio possimus accusamus similique veniam soluta dolores.
+
+Irure irure officia libero amet eligendi. Excepteur aut nulla ad omnis lorem animi consectetur consequatur qui. Omnis cillum dolor ex nobis est ad in eiusmod. Qui illum culpa vel culpa cillum optio incididunt voluptate ut laborum.
+
+Velit iusto deleniti voluptas quo eos eu pariatur illum nulla cupiditate illum nulla. Minus blanditiis reprehenderit quo est id nisi est. Cillum ea est voluptate distinctio est iusto culpa. Praesentium quo odio labore reprehenderit illum amet dolorum nostrud exercitation.
+
+Amet nulla fugiat eligendi eiusmod possimus quod consequatur cupiditate officia aliqua id non. Quod occaecat fugiat mollitia deleniti esse voluptas elit corrupti possimus in et. Possimus facere voluptas omnis sit officia ducimus minus nostrud.
+
+Sed at iusto officia nisi nostrud occaecat vero officia. Dolor eligendi et culpa in praesentium nam facilis deleniti. Voluptas fugiat ut quos tempor fugiat. Adipiscing eligendi odio pariatur ut laboris culpa id adipiscing veniam. Odio in adipiscing ut animi tempor in quod soluta nisi mollit reprehenderit.
+
+Eligendi veniam illum est tempore dolor consequat atque pariatur. Imperdiet quo provident omnis cupidatat animi excepteur. Magna quos culpa quas at elit qui voluptate et voluptatum nostrud. Esse proident et est veniam voluptate accusamus magna maxime. Deserunt harum proident minim facilis amet ad deserunt quibusdam ipsum proident similique.
+
+Labore duis illum possimus culpa irure sint sunt similique nostrud officia cum. Mollit dolorum pariatur facere elit fugiat sunt animi. Consequat excepteur quis qui laborum deleniti irure. Et soluta vel dolor excepteur optio.
